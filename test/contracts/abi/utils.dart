@@ -4,7 +4,6 @@ import 'package:test/test.dart';
 
 import 'package:web3dart/contracts.dart';
 import 'package:web3dart/crypto.dart';
-
 import 'package:web3dart/web3dart.dart' show LengthTrackingByteSink;
 
 
